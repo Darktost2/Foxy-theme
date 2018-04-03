@@ -1,0 +1,6 @@
+
+//META{"name":"redGuilds","description":"Changes the guilds background to red","author":"Jiiks","version":"1.0"}*//
+
+.guilds {
+	background:red;
+}
