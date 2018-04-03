@@ -23,11 +23,11 @@
 .status-streaming {
   background-color:#870cff;
 }
-
-#app-mount > div.app-XZYfmp.platform-osx > div > div.layers-20RVFW.flex-vertical.flex-spacer > div.layer-kosS71 > div > div.flex-lFgbSz.flex-3B1Tl4.vertical-3X17r5.flex-3B1Tl4.directionColumn-2h-LPR.justifyStart-2yIZo0.alignStretch-1hwxMa.noWrap-v6g9vO.base-3AoPqv > div.flex-lFgbSz.flex-3B1Tl4.horizontal-2BEEBe.horizontal-2VE-Fw.flex-3B1Tl4.directionRow-yNbSvJ.justifyStart-2yIZo0.alignStretch-1hwxMa.noWrap-v6g9vO.spacer-3Dkonz > div.chat.flex-vertical.flex-spacer > div.content.flex-spacer.flex-horizontal > div.flex-spacer.flex-vertical > div > div > div > div:nth-child(42) > div.comment > div > div.body > div
+.message-group .comment .markup {
 
 font-family: cursive;
 
 font-style: italic;
 
 font-weight: normal;
+}
