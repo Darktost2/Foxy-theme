@@ -5,17 +5,22 @@
 }
 
 .status-online {
-    background-color: #1fd4e8;
+    background-color:#1fd4e8;
 }
 
 .status-idle {
-    background-color: #66e806;
+    background-color:#66e806;
 }
 
 .status-dnd {
-    background-color: #f59808;
+    background-color:#f59808;
 }
 
 .status-invisible, .status-offline {
-    background-color: #8e0dec;
+    background-color:#8e0dec;
 }
+
+.status-streaming {
+  background-color:#870cff;
+}
+
