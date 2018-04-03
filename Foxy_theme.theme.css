@@ -3,3 +3,19 @@
 .theme-dark .friends-table, .theme-dark .messages-wrapper {
     background-color:#009bf5;
 }
+
+.status-online {
+    background-color: #1fd4e8;
+}
+
+.status-idle {
+    background-color: #66e806;
+}
+
+.status-dnd {
+    background-color: #f59808;
+}
+
+.status-invisible, .status-offline {
+    background-color: #8e0dec;
+}
