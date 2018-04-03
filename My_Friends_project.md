@@ -1,1 +1,3 @@
+I showed my friend what i could do with the fonts and she asked me if i could change the font in her project... 
 
+So i'll make it as fast as possible
