@@ -1,9 +1,5 @@
 //META{"name":"Foxy_theme","description":"My first theme ever ^^; hope you enjoy!","author":"Darky","version":"0.0"}*//
 
-.theme-dark .friends-table, .theme-dark .messages-wrapper {
-    background-color:#009bf5;
-}
-
 .status-online {
     background-color:#1fd4e8;
 }
