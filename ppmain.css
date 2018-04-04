@@ -323,6 +323,15 @@ font-style: italic;
 font-weight: normal;
 }
 
+strong.user-name{
+
+font-family: cursive;
+
+font-style: italic;
+
+font-weight: normal;
+}
+
 .theme-dark .autocomplete-1TnWNR {
     background-color: #000000;
 }
